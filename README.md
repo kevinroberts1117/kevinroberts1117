@@ -1,6 +1,6 @@
 <h1 align="center" dir="auto"> Full Stack Web Developer </h1>
 <p align="center">
-  <h3 align="center">Highly Skilled Full Stack & AI Engineer </h3>
+  <h3 align="center">Highly Skilled Full Stack Web Developer </h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -106,6 +106,6 @@
 <h3 align="left">Support:</h3>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dubby0610&show_icons=true&locale=en&layout=compact" alt="Dubby0610" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinroberts1117&show_icons=true&locale=en&layout=compact" alt="kevinroberts1117" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dubby0610&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="Dubby0610" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinroberts1117&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="kevinroberts1117" /></p>
