@@ -1,8 +1,6 @@
 <h1 align="center" dir="auto"> Senior Full Stack Web Developer | AI engineer </h1>
 <p align="center">
-  <h3 align="center">Highly Skilled Full Stack Web Developer </h3>
-## My Skills
-
+  <h3 align="left">My Skills</h3>
 <table>
     <tr width='50' height='50'>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg?raw=true" width="50"></td>
