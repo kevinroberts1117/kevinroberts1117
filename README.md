@@ -1,8 +1,7 @@
-<h1 align="center" dir="auto"> Senior Full Stack Web Developer | AI engineer </h1>
+<marquee><h1 align="center" dir="auto"> Senior Full Stack Web Developer | AI engineer </h1></marquee>
 <p align="center">
   <h3 align="left">My Skills</h3>
 <table>
-  Web Development
     <tr width='50' height='50'>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg?raw=true" width="50"></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg?raw=true" width="50"></td>
@@ -16,7 +15,6 @@
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg?raw=true" width="50"></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg?raw=true" width="50"></td>
     </tr>
-  AI Development
     <tr width='50' height='50'>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="50"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/></td>
@@ -57,37 +55,5 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="50"></td>
     </tr>
 </table>
-
-<--- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NFTknight.NFTknight" />
-<img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" /> --->
-<h1 align="center"></h1>
-
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
-
-<div>
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966?raw=true" width="400" />
-
-### Crypto Trading Platforms & Bots
-
-  <br />
-
-### Website and Mobile application
-
-  <br />
-
-### Video Conference Web & Mobile application
-
-  <br />
-
-### SaaS/CRM/CMS/E-Commerce Web & Mobile application
-  
-  <br />
-
-</div>
-
-<h3 align="left">Support:</h3>
-<br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinroberts1117&show_icons=true&locale=en&layout=compact" alt="kevinroberts1117" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinroberts1117&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="kevinroberts1117" /></p>
