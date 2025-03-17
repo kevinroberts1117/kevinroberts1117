@@ -1,27 +1,6 @@
-<h1 align="center" dir="auto"> Full Stack Web Developer </h1>
+<h1 align="center" dir="auto"> Senior Full Stack Web Developer | AI engineer </h1>
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack Web Developer </h3>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Dubby0610/Dubby0610/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-- 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
-
-- 👯 I hope someday collaborate with on **Innovative Projects**
-
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
-
-- 📚 Love reading books on personal development & financial literacy.
-
-- ⚡ Quotes: _What you do today can improve all of your tomorrows._
-
-</p>
-
-<img src="https://img.shields.io/github/issues-pr/Dubby0610/uniswapv3-code" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/Dubby0610/uniswapv3-code" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Dubby0610/uniswapv3-code?color=2b9348"> <img src="https://img.shields.io/github/license/Dubby0610/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=Dubby0610&label=Profile%20views&color=0e75b6&style=flat" alt="Dubby0610" />
-![Quickdraw Badge](https://img.shields.io/badge/Quickdraw-%E2%9C%94-green)
-![YOLO Badge](https://img.shields.io/badge/YOLO-%E2%9C%94-green)
-![Pull Shark Badge](https://img.shields.io/badge/Pull%20Shark-%E2%9C%94-green)
-
 ## My Skills
 
 <table>
