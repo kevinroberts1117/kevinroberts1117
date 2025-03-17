@@ -2,6 +2,7 @@
 <p align="center">
   <h3 align="left">My Skills</h3>
 <table>
+  Web Development
     <tr width='50' height='50'>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg?raw=true" width="50"></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg?raw=true" width="50"></td>
@@ -15,6 +16,7 @@
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg?raw=true" width="50"></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg?raw=true" width="50"></td>
     </tr>
+  AI Development
     <tr width='50' height='50'>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="50"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/></td>
