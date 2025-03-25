@@ -1,6 +1,6 @@
 <h3 align="center" style="font-family: Poppins;">
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>s
+</h3>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
