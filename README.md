@@ -8,51 +8,51 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
     </a>
 </p>
 
-<h5 align="center"> 🌎 Web Development 🌎 </h5>
-<h6 align="left"> 💻 Frontend Technology 💻 </h5>
+<h2 align="center"> 🌎 Web Development 🌎 </h2>
+<h3 align="left"> 💻 Frontend Technology 💻 </h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,react,angular,next,vue,mui" />
   </a>
 </p>
 
-<h6 align="left"> 📡 Backend Technology 📡 </h5>
+<h3 align="left"> 📡 Backend Technology 📡 </h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,nodejs,express,python,spring,graphql,django" />
   </a>
 </p>
 
-<h6 align="left"> 💼 Database Technology 💼 </h5>
+<h3 align="left"> 💼 Database Technology 💼 </h5>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,mysql,mongo,postgresql,firebase,supabase,sqlite" />
   </a>
 </p>
 
-<h5 align="center"> 🌐 AI Engineering 🌐 </h5>
-<h6 align="left"> 💬 Chatbot 💬 </h5>
+<h2 align="center"> 🌐 AI Engineering 🌐 </h2>
+<h3 align="left"> 💬 Chatbot 💬 </h5>
 <p align="left">
 
 </p>
 
-<h6 align="left"> 🎧 Voice Agent 🎧 </h5>
+<h3 align="left"> 🎧 Voice Agent 🎧 </h5>
 <p align="left">
 Retell, Dasha, VAPI, Syncflow
 </p>
 
-<h5 align="center"> 💎 Other Technology 💎 </h5>
-<h5 align="left"> 🚨 VoIP Platform🚨 </h5>
+<h2 align="center"> 💎 Other Technology 💎 </h2>
+<h3 align="left"> 🚨 VoIP Platform🚨 </h3>
 <p align="left">
   Twilio, FreeSWITCH, SIP, Asterisk
 </p>
 
-<h5 align="left"> 🖱 No/Low Code 🖱 </h5>
+<h3 align="left"> 🖱 No/Low Code 🖱 </h3>
 <p align="center">
 Bubble.io, WordPress, Webflow, Wix, Squarespace, Magento, Shopify, Magento,
 </p>
 
-<h5 align="left"> ⏰ Version Control ⏰ </h5>
+<h3 align="left"> ⏰ Version Control ⏰ </h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,github,gitlab,git" />
