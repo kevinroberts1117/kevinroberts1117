@@ -48,7 +48,7 @@ Retell, Dasha, VAPI, Syncflow
 </p>
 
 <h3 align="left"> 🖱 No/Low Code 🖱 </h3>
-<p align="center">
+<p align="left">
 Bubble.io, WordPress, Webflow, Wix, Squarespace, Magento, Shopify, Magento,
 </p>
 
